@@ -1,0 +1,10 @@
+C:\Users\robert.llorente\source\repos\tiktaktok\bin\Debug\tiktaktok.exe.config
+C:\Users\robert.llorente\source\repos\tiktaktok\bin\Debug\tiktaktok.exe
+C:\Users\robert.llorente\source\repos\tiktaktok\bin\Debug\tiktaktok.pdb
+C:\Users\robert.llorente\source\repos\tiktaktok\obj\Debug\tiktaktok.csproj.AssemblyReference.cache
+C:\Users\robert.llorente\source\repos\tiktaktok\obj\Debug\tiktaktok.Form1.resources
+C:\Users\robert.llorente\source\repos\tiktaktok\obj\Debug\tiktaktok.Properties.Resources.resources
+C:\Users\robert.llorente\source\repos\tiktaktok\obj\Debug\tiktaktok.csproj.GenerateResource.cache
+C:\Users\robert.llorente\source\repos\tiktaktok\obj\Debug\tiktaktok.csproj.CoreCompileInputs.cache
+C:\Users\robert.llorente\source\repos\tiktaktok\obj\Debug\tiktaktok.exe
+C:\Users\robert.llorente\source\repos\tiktaktok\obj\Debug\tiktaktok.pdb
